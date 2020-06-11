@@ -1,4 +1,4 @@
-#ifndef __HEAD__
+﻿#ifndef __HEAD__
 #define __HEAD__
 
 #include <iostream>

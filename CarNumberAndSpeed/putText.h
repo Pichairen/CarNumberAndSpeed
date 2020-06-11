@@ -1,4 +1,4 @@
-#ifndef PUTTEXT_H_
+﻿#ifndef PUTTEXT_H_
 #define PUTTEXT_H_
  
 #include <windows.h>

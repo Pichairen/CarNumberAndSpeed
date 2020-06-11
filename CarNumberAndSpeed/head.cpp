@@ -1,4 +1,4 @@
-#include "head.h"
+﻿#include "head.h"
 
 int gap = (302 - 110) / 3;
 pair<int, int> left_1 = { 110, 110 + gap };//左1车道
@@ -212,7 +212,7 @@ void getCarNumberAndSpeed(Blob& blob, const int frame_count) {
 		for (int i = 0; i < speedRes.size(); ++i) {
 			if (speedRes[i] != -1) {
 				char temp[1024];
-				sprintf_s(temp, "The %d lane's speed is %.3fpix/s", i + 1, speedRes[i]);
+				sprintf_s(temp, "车道 %d 的速度是 %.3fpix/s", i + 1, speedRes[i]);
 				cout << temp << endl;
 			}
 		}
