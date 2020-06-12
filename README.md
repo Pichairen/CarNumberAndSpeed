@@ -1,5 +1,5 @@
 # 车辆统计和车速预测
-这里提供一个简单的基于Opencv3的车辆统计和车速测量方法
+这里提供一个简单的基于vs2017+Opencv3.4的车辆统计和车速测量方法
 效果图：
 ![Image text](https://github.com/Pichairen/CarNumberAndSpeed/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE.png)
 # 车辆统计
