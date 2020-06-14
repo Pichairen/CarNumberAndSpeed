@@ -6,7 +6,7 @@
 ![Image text](https://github.com/Pichairen/CarNumberAndSpeed/blob/master/%E8%BD%A6%E8%BE%86%E7%BB%9F%E8%AE%A1.PNG)
 # 车速估计
 ![Image text](https://github.com/Pichairen/CarNumberAndSpeed/blob/master/%E8%BD%A6%E9%80%9F%E4%BC%B0%E8%AE%A1.PNG)
-# 优化方向
+# 说明
 1、代码中RoI是固定的，可以设置鼠标响应事件设置RoI  
 
 2、背景建模后还有阴影影响车辆检测的准确度，可以设置算法进行背景消除  
